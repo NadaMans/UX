@@ -1,0 +1,36 @@
+.container{
+    background-color: white;
+    border-radius: 5px;
+}
+.nav{
+    padding:10px 0px 10px 0px;
+    margin: 0px 0px 15px 0px;
+    background-image: linear-gradient(to right, #032b67, #1b387f, #304597, #4452af, #5a5fc8);
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    
+}
+
+.row{
+    padding-bottom: 5px;
+}
+
+.form-group{
+    width:170px;
+}
+
+
+h4{
+    margin:0px 0px 15px 0px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #3877c7;
+}
+
+button{
+   
+    margin: 10px 10px 0px 5px;
+    background-image: linear-gradient(to right top, #032b67, #1b387f, #304597, #4452af, #5a5fc8);    float: right;
+}
